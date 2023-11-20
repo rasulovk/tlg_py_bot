@@ -63,3 +63,11 @@ docs/html
 
 # pynev
 .python-version
+
+
+.env
+
+.mypy_cache/
+.vscode/
+venv/
+__pycache__/
